@@ -1,2 +1,2 @@
 # Python
-[Python](Rock Paper Scissors.py)
+[Python](Main.py)
